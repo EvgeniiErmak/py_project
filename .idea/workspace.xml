@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e551c295-6edd-487b-b006-cc31c6935f90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/py_project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_project/funcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_project/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="e551c295-6edd-487b-b006-cc31c6935f90" name="Changes" comment="subtraction to main.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,6 +123,65 @@
       <option name="presentableId" value="Default" />
       <updated>1694333329040</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <option name="closed" value="true" />
+      <created>1694601971429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694601971429</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix funcs.py">
+      <option name="closed" value="true" />
+      <created>1694602132265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694602132265</updated>
+    </task>
+    <task id="LOCAL-00003" summary="main.py">
+      <option name="closed" value="true" />
+      <created>1694602289343</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694602289343</updated>
+    </task>
+    <task id="LOCAL-00004" summary="main.py">
+      <option name="closed" value="true" />
+      <created>1694602315279</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694602315279</updated>
+    </task>
+    <task id="LOCAL-00005" summary="subtraction to main.py">
+      <option name="closed" value="true" />
+      <created>1694602491673</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694602491673</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <MESSAGE value="Fix funcs.py" />
+    <MESSAGE value="main.py" />
+    <MESSAGE value="subtraction to main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="subtraction to main.py" />
   </component>
 </project>
